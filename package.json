@@ -1,6 +1,7 @@
 {
   "name": "rty-components",
   "version": "1.0.0",
+  "packageManager": "pnpm@7.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
