@@ -1,0 +1,21 @@
+{
+  "name": "rty-components",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "module":"es/index.js",
+  "scripts": {
+    "build": "vite build"
+  },
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "rty-components",
+    "vue3组件库"
+  ],
+  "author": "rty",
+  "license": "MIT",
+  "description": ""
+}
+
